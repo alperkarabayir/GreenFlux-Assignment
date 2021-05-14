@@ -13,3 +13,4 @@
 - More Integration Tests
 - More Unit Tests
 - Design and Create Better Suggestion Algorithm
+- Exception Modifies
